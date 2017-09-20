@@ -1,0 +1,31 @@
+2017-09-20 14:52:22.669 INFO  65 - Starting ZkClient event thread.
+2017-09-20 14:52:22.701 INFO  100 - Client environment:zookeeper.version=3.4.10-39d3a4f269333c922ed3db283be479f9deacaa0f, built on 03/23/2017 10:13 GMT
+2017-09-20 14:52:22.701 INFO  100 - Client environment:host.name=SH-YSL-KFB-ZQG.Benlai.work
+2017-09-20 14:52:22.701 INFO  100 - Client environment:java.version=1.8.0_91
+2017-09-20 14:52:22.701 INFO  100 - Client environment:java.vendor=Oracle Corporation
+2017-09-20 14:52:22.701 INFO  100 - Client environment:java.home=C:\Program Files\Java\jdk1.8.0_91\jre
+2017-09-20 14:52:22.701 INFO  100 - Client environment:java.class.path=C:\Program Files\Java\jdk1.8.0_91\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\rt.jar;E:\github\ZookeeperDemo\target\classes;E:\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;E:\repository\org\apache\zookeeper\zookeeper\3.4.10\zookeeper-3.4.10.jar;E:\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;E:\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\repository\io\netty\netty\3.10.5.Final\netty-3.10.5.Final.jar;E:\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\Program Files\JetBrains\IntelliJ IDEA 2017.2.2\lib\idea_rt.jar
+2017-09-20 14:52:22.701 INFO  100 - Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Redis\;E:\mongoDB\mongo\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\OpenVPN\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\ProgramData\chocolatey\bin;D:\mysql-5.6.30-winx64\bin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\VisualSVN\bin;C:\Program Files\Java\jdk1.8.0_91\bin;C:\Program Files\nodejs\;E:\java\software\apache-maven-3.5.0\bin;C:\Users\zhongqigang\.dnx\bin;C:\Users\zhongqigang\AppData\Roaming\npm;D:\Program Files (x86)\Microsoft VS Code\bin;.
+2017-09-20 14:52:22.701 INFO  100 - Client environment:java.io.tmpdir=C:\Users\ZHONGQ~1\AppData\Local\Temp\
+2017-09-20 14:52:22.701 INFO  100 - Client environment:java.compiler=<NA>
+2017-09-20 14:52:22.701 INFO  100 - Client environment:os.name=Windows 7
+2017-09-20 14:52:22.701 INFO  100 - Client environment:os.arch=amd64
+2017-09-20 14:52:22.701 INFO  100 - Client environment:os.version=6.1
+2017-09-20 14:52:22.701 INFO  100 - Client environment:user.name=zhongqigang
+2017-09-20 14:52:22.701 INFO  100 - Client environment:user.home=C:\Users\zhongqigang
+2017-09-20 14:52:22.701 INFO  100 - Client environment:user.dir=E:\github\ZookeeperDemo
+2017-09-20 14:52:22.716 INFO  438 - Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@7e32c033
+2017-09-20 14:52:22.810 INFO  936 - Waiting for keeper state SyncConnected
+2017-09-20 14:52:22.810 INFO  1032 - Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2017-09-20 14:52:22.810 INFO  876 - Socket connection established to 127.0.0.1/127.0.0.1:2181, initiating session
+2017-09-20 14:52:22.906 WARN  139 - Connected to an old server; r-o mode will be unavailable
+2017-09-20 14:52:22.906 INFO  1299 - Session establishment complete on server 127.0.0.1/127.0.0.1:2181, sessionid = 0x15e9d4ff7f5000a, negotiated timeout = 30000
+2017-09-20 14:52:22.924 INFO  713 - zookeeper state changed (SyncConnected)
+2017-09-20 14:52:23.363 INFO  91 - value is===>1
+2017-09-20 14:52:23.373 INFO  92 - value is===>2
+2017-09-20 14:52:23.373 INFO  93 - value is===>3
+2017-09-20 14:52:23.384 INFO  94 - value is===>4
+2017-09-20 14:52:23.384 INFO  95 - value is===>5
+2017-09-20 14:52:23.384 INFO  96 - value is===>6
+2017-09-20 14:52:23.474 INFO  43 - data /config/testKey6 change,start reload configProperties
+2017-09-20 14:52:23.484 INFO  98 - update testKey6 value is===>testKey6
